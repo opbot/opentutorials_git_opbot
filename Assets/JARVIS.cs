@@ -1,10 +1,16 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class JARVIS : MonoBehaviour {
+
+	private GameObject _arcReactor;
 
 	// Use this for initialization
 	void Start () {
+		if (_arcReactor != null) 
+		{
+			Debug.Log( "Arc Reactor Activated!" );
+		}
 	
 	}
 	
