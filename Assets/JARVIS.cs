@@ -1,11 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class JARVIS : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
-	
+	private GameObject _arcReactor;
+
+	void Start() 
+	{
+		Debug.Log( "arc reactor activate" );
 	}
 	
 	// Update is called once per frame
