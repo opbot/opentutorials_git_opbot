@@ -22,4 +22,9 @@ public class JARVIS : MonoBehaviour {
 	{
 
 	}
+
+	void ConflictSolve()
+	{
+
+	}
 }
