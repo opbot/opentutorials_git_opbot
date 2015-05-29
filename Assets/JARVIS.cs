@@ -23,7 +23,13 @@ public class JARVIS : MonoBehaviour {
 
 	}
 
+
 	void RemoteHurkBuster()
+	{
+
+	}
+
+	void ConflictSolve()
 	{
 
 	}
