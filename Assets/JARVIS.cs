@@ -7,13 +7,12 @@ public class JARVIS : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		if (_arcReactor != null) 
-		{
-			Debug.Log( "Arc Reactor Activated!" );
+		if (_arcReactor != null) {
+			Debug.Log ("Arc Reactor Activated!");
 		}
-	
 	}
 	
+
 	// Update is called once per frame
 	void Update () {
 	
