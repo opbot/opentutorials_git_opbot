@@ -17,4 +17,9 @@ public class JARVIS : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	void Conflict()
+	{
+
+	}
 }
